@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": 1755457664.9170508,
+    "type": "requesting_weapon",
+    "player": "TenZ",
+    "weapon": "Vandal",
+    "team": "Sentinels"
+  },
+  {
+    "timestamp": 1755457665.917073,
+    "type": "weapon_owned",
+    "player": "Zyppan",
+    "weapon": "Phantom",
+    "team": "NAVI"
+  },
+  {
+    "timestamp": 1755457666.917075,
+    "type": "shield_owned",
+    "player": "TenZ",
+    "team": "Sentinels"
+  },
+  {
+    "timestamp": 1755457667.9170802,
+    "type": "teammate_requesting_weapon",
+    "player": "Derke",
+    "teammate": "Derke",
+    "weapon": "Operator",
+    "team": "FNATIC"
+  },
+  {
+    "timestamp": 1755457668.917085,
+    "type": "weapon_hover",
+    "player": "aspas",
+    "weapon": "Vandal",
+    "team": "LEV"
+  }
+]
